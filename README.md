@@ -1,4 +1,4 @@
-# EX5 Information Retrieval Using Boolean Model in Python
+# EX5:Information Retrieval Using Boolean Model in Python
 # DATE: 
 
 ## AIM: 
